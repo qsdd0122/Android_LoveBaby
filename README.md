@@ -46,8 +46,7 @@
    올바른 수면 패턴을
    갖도록 함
    
-   ![image](https://user-images.githubusercontent.com/96825988/148056450-8363e844-5c2c-4d6f-b290-f87d8694e42c.png)
-
+![image](https://user-images.githubusercontent.com/96825988/148056450-8363e844-5c2c-4d6f-b290-f87d8694e42c.png)
 ![image](https://user-images.githubusercontent.com/96825988/148056462-31ee8414-c082-48de-a183-1484060d506b.png)
 
 
