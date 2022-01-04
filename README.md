@@ -30,7 +30,7 @@
 2. 날짜, 시간, 예방 접종 기관 선택 후 저장
 3. 날짜, 시간, 접종 기관에 해당되는 정보를 담은 푸시 알람 울림
 
-* 예약하지 않아도 접종 기관 확인 버튼을 누르면 기관 확인 가능
+[예약하지 않아도 접종 기관 확인 버튼을 누르면 기관 확인 가능]
 
 ![image](https://user-images.githubusercontent.com/96825988/148056393-423d3f1d-6ae0-4ae6-9363-fcf682f07854.png)
 ![image](https://user-images.githubusercontent.com/96825988/148056401-801928c6-1118-4754-a7fc-d6582959a5ec.png)
