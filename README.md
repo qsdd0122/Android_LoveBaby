@@ -14,6 +14,7 @@
 2. 상대방이 수신 / 수락 
 
 3. 연동 완료
+
 ![image](https://user-images.githubusercontent.com/96825988/148056269-57611ff6-b4ac-43b7-acdf-9b137a438528.png)
 ![image](https://user-images.githubusercontent.com/96825988/148056277-323f7562-b876-49a6-85ac-a4ba321b7ae8.png)
 ![image](https://user-images.githubusercontent.com/96825988/148056279-fa4f65cf-f154-4ffb-8d9a-8104c08f9509.png)
